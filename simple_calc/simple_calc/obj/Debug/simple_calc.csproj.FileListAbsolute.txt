@@ -1,0 +1,12 @@
+c:\users\юлия\documents\visual studio 2013\Projects\simple_calc\simple_calc\bin\Debug\simple_calc.exe.config
+c:\users\юлия\documents\visual studio 2013\Projects\simple_calc\simple_calc\bin\Debug\simple_calc.exe
+c:\users\юлия\documents\visual studio 2013\Projects\simple_calc\simple_calc\bin\Debug\simple_calc.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\simple_calc\simple_calc\obj\Debug\simple_calc.csprojResolveAssemblyReference.cache
+c:\users\юлия\documents\visual studio 2013\Projects\simple_calc\simple_calc\obj\Debug\simple_calc.exe
+c:\users\юлия\documents\visual studio 2013\Projects\simple_calc\simple_calc\obj\Debug\simple_calc.pdb
+C:\Users\Ирина\Desktop\simple_calc\simple_calc\bin\Debug\simple_calc.exe.config
+C:\Users\Ирина\Desktop\simple_calc\simple_calc\bin\Debug\simple_calc.exe
+C:\Users\Ирина\Desktop\simple_calc\simple_calc\bin\Debug\simple_calc.pdb
+C:\Users\Ирина\Desktop\simple_calc\simple_calc\obj\Debug\simple_calc.csprojAssemblyReference.cache
+C:\Users\Ирина\Desktop\simple_calc\simple_calc\obj\Debug\simple_calc.exe
+C:\Users\Ирина\Desktop\simple_calc\simple_calc\obj\Debug\simple_calc.pdb
